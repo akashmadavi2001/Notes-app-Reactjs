@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Notes-app-Reactjs/static/css/main.35199869.css",
+    "main.js": "/Notes-app-Reactjs/static/js/main.20f5b3aa.js",
+    "static/js/453.f8ce13e5.chunk.js": "/Notes-app-Reactjs/static/js/453.f8ce13e5.chunk.js",
+    "static/media/Dodge.jpg": "/Notes-app-Reactjs/static/media/Dodge.1d04d6c08e61bb0a29b7.jpg",
+    "index.html": "/Notes-app-Reactjs/index.html",
+    "main.35199869.css.map": "/Notes-app-Reactjs/static/css/main.35199869.css.map",
+    "main.20f5b3aa.js.map": "/Notes-app-Reactjs/static/js/main.20f5b3aa.js.map",
+    "453.f8ce13e5.chunk.js.map": "/Notes-app-Reactjs/static/js/453.f8ce13e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35199869.css",
+    "static/js/main.20f5b3aa.js"
+  ]
+}
