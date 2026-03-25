@@ -5,6 +5,7 @@ import { v4 } from 'uuid'
 import Note from './Note'
 
 const Notes = () => {
+  
   let [inputText, setinputText] = useState("");
   let [notes, setNotes] = useState([]);
   let [edit, setEdit] = useState(null);
@@ -43,7 +44,7 @@ const Notes = () => {
 
     setinputText("");
     setEdit(null);
-  }
+  };
 
   useEffect(() => {
     const data = JSON.parse(localStorage.getItem("Notes-app"));
@@ -75,7 +76,6 @@ const Notes = () => {
               text={note.text}
               editHandler={editHandler}
               delHandler={delHandler}>
-
             </Note>
         )
         )}
